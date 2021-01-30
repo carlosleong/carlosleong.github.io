@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+ PhD in Economics at Universitat de Barcelona (UB), 2023 (expected)
+ MRes. Analysis and Policy in Economics at Paris School of Economics (PSE), 2020
+ B.Sc. in Economics, Universidad Autonoma de Nuevo Leon (UANL), 2008
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Inter-American Development Bank 
+   2020 -    Connectivity, Markets and Finance Division (CMF) 
+             External Consultant (Paris, France)
+   2014-2018 Fiscal Policy and Managment Division (FMM)
+             Consultant (Washington, D.C., USA)
+             
+ Ministry of Finance and Public Credit (SHCP)
+   2010-2012 General Directorate of Public Debt and Fiscal Federalism
+             Deputy Director of Subnational Public Debt (Mexico city, Mexico)
+             
+ Banorte Financial Group (BANORTE)
+   2008-2010 Public Debt Department
+             Credit Analyst (Monterrey, Mexico)
+             
+ Mexican Cement (CEMEX)
+   2006-2008 Economic Research Department
+             Research Assistant (Monterrey, Mexico)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+ Central Bank of Mexico (Banxico)
+   2005-2006 Economic Research Department
+             Research Assistant (Monterrey, Mexico)
+             
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Languages: Spanish (native), English (fluent), French (intermediate)
+
+Softwares: R, STATA, Latex, Python (data analysis), QGIS (basic)
 
 Publications
 ======
@@ -54,6 +63,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Other activities
 ======
-* Currently signed in to 43 different slack teams
+Emerging Leader and alumni participant in the Atlantic Dialogues 2015 and 2018 (Marrakesh, Morocco).
+
+President of the Student’s Organization - UANL (2008)
+
